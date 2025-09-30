@@ -1,5 +1,3 @@
-# Mi Tarjeta de Presentación
-
 ## Descripción
 Este proyecto consiste en una **primera tarea de React** en la que se presentan **tres tarjetas de presentación** con la siguiente información:
 
