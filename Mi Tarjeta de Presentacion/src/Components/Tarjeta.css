@@ -1,0 +1,30 @@
+body {
+    background-color: #ddd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tarjeta {
+    background-color: #eee;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #333;
+    padding: 16px;
+    max-width: 300px;
+    margin: 10px;
+}
+
+.tarjeta .imagen {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.tarjeta .nombre {
+    text-decoration: underline;
+}
+
+.tarjeta .nombreCompleto {
+    font-style: italic;
+}
