@@ -1,16 +1,43 @@
-# React + Vite
+# Mi Tarjeta de Presentación
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Este proyecto consiste en una **primera tarea de React** en la que se presentan **tres tarjetas de presentación** con la siguiente información:
 
-Currently, two official plugins are available:
+- **Nombre**
+- **Profesión**
+- **Imagen**
+- **Descripción**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Cada tarjeta representa un perfil distinto y está creada como un **componente React** reutilizable.
 
-## React Compiler
+## Instrucciones para clonar y ejecutar el proyecto
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Crea una carpeta en tu PC donde quieras guardar el proyecto.
+2. Abre el terminal dentro de esa carpeta.
+3. Ejecuta el siguiente comando para clonar el repositorio:
+   ```bash
+   git clone https://github.com/fedeavila/Mi-Tarjeta-de-Presentacion.git
+4. Accede a la carpeta del proyecto:
+   ```bash
+   cd Mi-Tarjeta-de-Presentacion
+5. Instala las dependencias:
+   ```bash
+   npm install
+6. Ejecuta el proyecto:
+   ```bash
+   npm run dev
 
-## Expanding the ESLint configuration
+## Captura de pantalla
+<img width="1099" height="992" alt="image" src="https://github.com/user-attachments/assets/49517dd6-d380-4196-b116-7133f56076d1" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Autor
+- Nombre: Federico Avila
+- Curso: Diplomatura en Professional Full-Stack Developer
+- Módulo: 1
+- Unidad: 4
+
+## Fuentes
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+- https://react.dev/learn/writing-markup-with-jsx
+- https://react.dev/learn/passing-props-to-a-component
+
